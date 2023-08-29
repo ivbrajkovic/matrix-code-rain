@@ -22,4 +22,5 @@
 
 body {
   background: black;
+  touch-action: none;
 }
